@@ -1,0 +1,14 @@
+C:\Users\Franz\source\repos\WCF\miForm\bin\Debug\miForm.exe.config
+C:\Users\Franz\source\repos\WCF\miForm\bin\Debug\miForm.exe
+C:\Users\Franz\source\repos\WCF\miForm\bin\Debug\miForm.pdb
+C:\Users\Franz\source\repos\WCF\miForm\obj\Debug\miForm.csprojAssemblyReference.cache
+C:\Users\Franz\source\repos\WCF\miForm\obj\Debug\miForm.Form1.resources
+C:\Users\Franz\source\repos\WCF\miForm\obj\Debug\miForm.Properties.Resources.resources
+C:\Users\Franz\source\repos\WCF\miForm\obj\Debug\miForm.csproj.GenerateResource.cache
+C:\Users\Franz\source\repos\WCF\miForm\obj\Debug\miForm.csproj.CoreCompileInputs.cache
+C:\Users\Franz\source\repos\WCF\miForm\obj\Debug\miForm.exe
+C:\Users\Franz\source\repos\WCF\miForm\obj\Debug\miForm.pdb
+C:\Users\Franz\source\repos\WCF\miForm\bin\Debug\MySql.Data.dll
+C:\Users\Franz\source\repos\WCF\miForm\bin\Debug\Google.Protobuf.dll
+C:\Users\Franz\source\repos\WCF\miForm\bin\Debug\MySql.Data.xml
+C:\Users\Franz\source\repos\WCF\miForm\obj\Debug\miForm.csproj.CopyComplete
